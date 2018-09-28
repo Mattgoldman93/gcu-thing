@@ -1,0 +1,31 @@
+body {
+  background-color: NavajoWhite;
+  text-align: center;
+  line-height: 1;
+}
+.purple {
+  color: purple;
+}
+
+.pacifico {
+  font-family: 'Pacifico';
+}
+
+.sil {
+  font-family: 'Shadows Into Light', "Serif";
+  font-size: 2em;
+}
+
+.bob {
+    font-size: 2em;
+}
+
+.pizza {
+  color: red;
+  border-bottom: .2em dotted red;
+}
+
+.small {
+  font-family: 'Shadows Into Light', "Serif";
+  color: #333;
+}
